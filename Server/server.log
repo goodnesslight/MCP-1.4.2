@@ -1,0 +1,21 @@
+2025-06-18 13:16:58 [INFO] Starting minecraft server version 1.4.2
+2025-06-18 13:16:58 [INFO] Loading properties
+2025-06-18 13:16:58 [WARNING] server.properties does not exist
+2025-06-18 13:16:58 [INFO] Generating new properties file
+2025-06-18 13:16:58 [INFO] Default game type: SURVIVAL
+2025-06-18 13:16:58 [INFO] Generating keypair
+2025-06-18 13:16:58 [INFO] Starting Minecraft server on *:25565
+2025-06-18 13:16:58 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Не удается найти указанный файл)
+2025-06-18 13:16:58 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Не удается найти указанный файл)
+2025-06-18 13:16:58 [INFO] Preparing level "world"
+2025-06-18 13:16:58 [INFO] Preparing start region for level 0
+2025-06-18 13:16:59 [INFO] Preparing spawn area: 22%
+2025-06-18 13:17:00 [INFO] Preparing spawn area: 48%
+2025-06-18 13:17:01 [INFO] Preparing spawn area: 88%
+2025-06-18 13:17:02 [INFO] Done (3,498s)! For help, type "help" or "?"
+2025-06-18 13:17:04 [INFO] Stopping server
+2025-06-18 13:17:04 [INFO] Saving players
+2025-06-18 13:17:04 [INFO] Saving worlds
+2025-06-18 13:17:04 [INFO] Saving chunks for level 'world'/Overworld
+2025-06-18 13:17:05 [INFO] Saving chunks for level 'world'/Nether
+2025-06-18 13:17:05 [INFO] Saving chunks for level 'world'/The End
